@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d135e94f.chunk.css",
-    "main.js": "/static/js/main.b2867e59.chunk.js",
-    "main.js.map": "/static/js/main.b2867e59.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a1e2b56b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a1e2b56b.js.map",
-    "static/js/2.e57098fa.chunk.js": "/static/js/2.e57098fa.chunk.js",
-    "static/js/2.e57098fa.chunk.js.map": "/static/js/2.e57098fa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.827d8433cd1094d02c12d80d00c3d9ad.js": "/precache-manifest.827d8433cd1094d02c12d80d00c3d9ad.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d135e94f.chunk.css.map": "/static/css/main.d135e94f.chunk.css.map",
-    "static/js/2.e57098fa.chunk.js.LICENSE": "/static/js/2.e57098fa.chunk.js.LICENSE",
-    "static/media/App.scss": "/static/media/Inter-UI-Regular.4c1e171a.ttf"
+    "main.css": "/smart-home-app/static/css/main.f3b72bdf.chunk.css",
+    "main.js": "/smart-home-app/static/js/main.770227fb.chunk.js",
+    "main.js.map": "/smart-home-app/static/js/main.770227fb.chunk.js.map",
+    "runtime-main.js": "/smart-home-app/static/js/runtime-main.3c07c1dc.js",
+    "runtime-main.js.map": "/smart-home-app/static/js/runtime-main.3c07c1dc.js.map",
+    "static/js/2.e57098fa.chunk.js": "/smart-home-app/static/js/2.e57098fa.chunk.js",
+    "static/js/2.e57098fa.chunk.js.map": "/smart-home-app/static/js/2.e57098fa.chunk.js.map",
+    "index.html": "/smart-home-app/index.html",
+    "precache-manifest.10f878c99d12a0726effe5c96d7ffef4.js": "/smart-home-app/precache-manifest.10f878c99d12a0726effe5c96d7ffef4.js",
+    "service-worker.js": "/smart-home-app/service-worker.js",
+    "static/css/main.f3b72bdf.chunk.css.map": "/smart-home-app/static/css/main.f3b72bdf.chunk.css.map",
+    "static/js/2.e57098fa.chunk.js.LICENSE": "/smart-home-app/static/js/2.e57098fa.chunk.js.LICENSE",
+    "static/media/App.scss": "/smart-home-app/static/media/Inter-UI-Regular.4c1e171a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1e2b56b.js",
+    "static/js/runtime-main.3c07c1dc.js",
     "static/js/2.e57098fa.chunk.js",
-    "static/css/main.d135e94f.chunk.css",
-    "static/js/main.b2867e59.chunk.js"
+    "static/css/main.f3b72bdf.chunk.css",
+    "static/js/main.770227fb.chunk.js"
   ]
 }
